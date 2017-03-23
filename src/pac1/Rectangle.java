@@ -11,7 +11,11 @@ public Rectangle (int x, int y){
     this.x=x;
     this.y=y;
 
-    //*коментарий
+    //коментарий
+    //мтоидлпаилпа
+    //лиотлп
+
+     */
        }
 
 }public
